@@ -19164,5 +19164,12 @@
     "author": "Emanuel Oliveira",
     "description": "Cycle text capitalisation (lowercase, Capitalise Each Word, UPPERCASE).",
     "repo": "hardpath/obsidian-capitalise-plugin"
+  },
+  {
+    "id": "vector-ink",
+    "name": "Vector Ink",
+    "author": "Theodor Markus Kaiser",
+    "description": "Create handwritten notes as vector graphics. Each stroke is saved as a Bézier curve, with customizable background and pen colors for infinite scalability.",
+    "repo": "TMK314/VectorInk"
   }
 ]
